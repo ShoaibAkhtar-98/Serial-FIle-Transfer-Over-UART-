@@ -30,3 +30,8 @@ All messages are wrapped in delimiters: `<CHUNK>message</CHUNK>`
 private const int CHUNK_SIZE = 200;     // Bytes per chunk
 private const int WINDOW_SIZE = 10;     // Packets per window
 private const int BAUD_RATE = 115200;   // Serial baud rate
+
+
+
+
+<img width="786" height="589" alt="image" src="https://github.com/user-attachments/assets/881447e5-0424-41d5-ba71-e3baf56e1184" />
